@@ -1,0 +1,22 @@
+{
+  "name": "make-gatsby-great",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Make Gatsby Great",
+  "author": "Justin Juno",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
